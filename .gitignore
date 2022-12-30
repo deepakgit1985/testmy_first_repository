@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+/testdata
+/screenshots
+/library
+/venv
+/reports
+*.log
+
+
+# Environments
+.env
+.venv
+.idea
+
+
+# Hidden JSON files
+.*.json
+.vscode/
